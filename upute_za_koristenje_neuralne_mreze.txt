@@ -1,0 +1,5 @@
+fajl koji pokrecemo jeste "main.py"
+u njemu korisnik unosi zeljeni learning rate i aktivacione f-je za hidden i output layer
+poslije toga se neuralna mreza obucava nad zadatim setom instanci za obucavanje
+i zatim se testira nad proizvoljnom instancom 
+
