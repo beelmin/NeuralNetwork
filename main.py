@@ -24,8 +24,8 @@ nn.train(X,Y,number_of_iterations)
 
 
 #testing neural network
-x = [[1,2,3]]
-y = [[0.5, 0.3, 0.7]]
+x = [[3,1,2]]
+y = [[0.47, 0.66, 0.51]]
 nn.test(x,y)
 
 
