@@ -2,9 +2,6 @@ import neural_network
 import data
 
 
-
-
-
 learning_rate = float(input("Unesite learning rate: "))
 print("Odaberite aktivacionu f-ju za skriveni i izlazni sloj:")
 print("1 - sigmoidna f-ja")
