@@ -1,9 +1,5 @@
 import random
 
-
-
-
-
 def generate_data(number_of_instances):
 	x = []
 	y = []
